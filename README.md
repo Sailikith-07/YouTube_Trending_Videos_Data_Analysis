@@ -7,20 +7,17 @@ This project analyzes trending YouTube videos using Python. The dataset includes
 ## 📁 Dataset Overview
 
 * **Source:** [Kaggle - YouTube Trending Videos](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
-* **Rows:** \115
+* **Rows:** 115
 * **Columns:** 19
 * **Scope:** Trending videos with different categories
 * **Time Period:** \[2007-03-30 to 2016-06-04] 
-
-  |   |
-  | - |
-  |   |
+---
 
 ### 🔑 Key Columns:
 
-* 'channelId', `channelTitle`, 'publishedAt', 'videoId', `videoTitle`, 'videoDescription',
-* `duration`, 'durationsec' , `viewCount`, `likeCount`, 'dislikeCount', `commentCount`,   
-* 'videoCategoryId',`videoCategoryLabel`, `definition`, `caption`, `Licensed Content`
+* `channelId`, `channelTitle`, `publishedAt`, `videoId`, `videoTitle`, `videoDescription`,
+* `duration`, `durationSec` , `viewCount`, `likeCount`, `dislikeCount`, `commentCount`,   
+* `videoCategoryId`,`videoCategoryLabel`, `definition`, `caption`, `Licensed Content`
 
 ---
 
@@ -121,7 +118,7 @@ This analysis highlights the major traits of trending YouTube content. Creators 
 
 ## 🔗 Credits
 
-* Dataset[ from]([https://www.kaggle.com](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube))[Kaggle](https://www.kaggle.com)
+* Dataset from [Kaggle-Trending videos on Youtube](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
 * YouTube Trending data publicly available under fair usage under License:- CCO: Public Domain
 
 ---
