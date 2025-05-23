@@ -112,7 +112,7 @@ This analysis highlights the major traits of trending YouTube content. Creators 
 | [Youtube\_Trending\_data\_analysis.ipynp](https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/Yotube_Trending_data_analysis.ipynb) | Jupyter Notebook with full code and analysis |
 | `README.md`                             | Project overview                             |
 | [`Youtube_Trending_videos_data.csv`]( https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/Youtube_Trending_videos_data.csv)      | Dataset used for analysis                    |
-| ['cleaned_data.csv](https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/cleaned_data.csv)                      | cleaned dataset                              |
+| [cleaned_data.csv](https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/cleaned_data.csv)                      | cleaned dataset                              |
 
 ---
 
