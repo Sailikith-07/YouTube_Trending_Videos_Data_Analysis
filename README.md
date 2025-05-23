@@ -119,7 +119,7 @@ This analysis highlights the major traits of trending YouTube content. Creators 
 ## 🔗 Credits
 
 * Dataset from [Kaggle-Trending videos on Youtube](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
-* YouTube Trending data publicly available under fair usage under License:- CCO: Public Domain
+* YouTube Trending data publicly available under fair usage
 
 ---
 
