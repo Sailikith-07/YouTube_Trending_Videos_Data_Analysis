@@ -112,16 +112,16 @@ This analysis highlights the major traits of trending YouTube content. Creators 
 
 | File                                    | Description                                  |
 | --------------------------------------- | -------------------------------------------- |
-| Youtube\_Trending\_data\_analysis.ipynp | Jupyter Notebook with full code and analysis |
+| [Youtube\_Trending\_data\_analysis.ipynp](https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/Yotube_Trending_data_analysis.ipynb) | Jupyter Notebook with full code and analysis |
 | `README.md`                             | Project overview                             |
-| `Youtube_Trending_videos_data.csv`      | Dataset used for analysis                    |
-| 'cleaned_data.csv                       | cleaned dataset                              |
+| [`Youtube_Trending_videos_data.csv`]( https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/Youtube_Trending_videos_data.csv)      | Dataset used for analysis                    |
+| ['cleaned_data.csv](https://github.com/Sailikith-07/YouTube_Trending_Videos_Data_Analysis/blob/main/cleaned_data.csv)                      | cleaned dataset                              |
 
 ---
 
 ## 🔗 Credits
 
-* Dataset[ fro](https://www.kaggle.com)[m ](https://www.kaggle.com)[Kaggle](https://www.kaggle.com)
+* Dataset[ from]([https://www.kaggle.com](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube))[Kaggle](https://www.kaggle.com)
 * YouTube Trending data publicly available under fair usage under License:- CCO: Public Domain
 
 ---
